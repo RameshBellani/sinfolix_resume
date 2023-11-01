@@ -1,0 +1,25 @@
+.icon-style{
+    color: blue;
+}
+body{
+    display: flex;
+    justify-content: center;
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+.unlist{
+    list-style-type: none;
+}
+.resume {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+h2 {
+    color: #007bff;
+}
+h4 {
+    color: #333;
+}
